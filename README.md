@@ -24,7 +24,7 @@ $ npm install json2csv
 執行擷取程式 :
 
 ```
-$ node index.js C0G740 2017-07
+$ node index.js C1I020 2017-07
 ```
 > node index.js <測站代號> <年-月>
 
